@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP APHB1608CGKSURKC
+D Standard LEDs - SMD Grn/Red 50/230mcd 570/630nm Water Clr
+K
+F http://www.kingbrightusa.com/images/catalog/SPEC/APHB1608CGKSURKC.pdf
+$ENDCMP
+#
+#End Doc Library
