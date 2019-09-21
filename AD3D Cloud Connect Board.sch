@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "Cloud Connect Board"
 Date "2019-07-22"
-Rev "0"
+Rev "1"
 Comp "Autodrop3d"
 Comment1 "Designed by John Scimone"
 Comment2 "Proprietary"

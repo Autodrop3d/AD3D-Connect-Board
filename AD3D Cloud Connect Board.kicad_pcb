@@ -11,7 +11,10 @@
 
   (page A3)
   (title_block
+    (title "AD3D Cloud Connect Board")
     (date "15 nov 2012")
+    (rev 1)
+    (company Autodrop3d)
   )
 
   (layers
@@ -38,7 +41,7 @@
   )
 
   (setup
-    (last_trace_width 1.27)
+    (last_trace_width 0.127)
     (user_trace_width 0.127)
     (user_trace_width 0.1778)
     (user_trace_width 0.254)
