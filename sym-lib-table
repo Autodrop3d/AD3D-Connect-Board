@@ -1,5 +1,5 @@
 (sym_lib_table
   (lib (name AD3D-Cloud-Connect-Hat-rescue)(type Legacy)(uri "${KIPRJMOD}/AD3D Cloud Connect Hat-rescue.lib")(options "")(descr ""))
   (lib (name AD3D-Cloud-Connect-Board-rescue)(type Legacy)(uri "${KIPRJMOD}/AD3D Cloud Connect Board-rescue.lib")(options "")(descr ""))
-  (lib (name "AD3D Cloud Connect Board")(type Legacy)(uri "C:/Users/john/Documents/AD3D Cloud Connect Board/AD3D Cloud Connect Board.lib")(options "")(descr ""))
+  (lib (name AD3D-Cloud-Connect-Board)(type Legacy)(uri "C:/Users/john/Documents/AD3D Cloud Connect Board/AD3D Cloud Connect Board.lib")(options "")(descr ""))
 )

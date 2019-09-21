@@ -12,4 +12,10 @@ K
 F http://www.kingbrightusa.com/images/catalog/SPEC/APHB1608CGKSURKC.pdf
 $ENDCMP
 #
+$CMP B3F-4000
+D lvory Plunger Tactile Switch, SPST-NO 0.05 A@ 24 V dc 0.8mm
+K
+F https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+$ENDCMP
+#
 #End Doc Library
